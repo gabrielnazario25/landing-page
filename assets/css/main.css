@@ -1,0 +1,29 @@
+/* Fonts */
+:root {
+  --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "Roboto",  sans-serif;
+  --nav-font: "Lato",  sans-serif;
+}
+
+/* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
+:root { 
+    /* Background color for the entire website, including individual sections */
+  --background-color: #ffffff; 
+  
+  /* Default color used for the majority of the text content across the entire website */
+  --default-color: #212529; 
+  
+  /* Color for headings, subheadings and title throughout the website */
+  --heading-color: #2d465e; 
+  
+  /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  /* --accent-color: #34bf49;  */ 
+  /* --accent-color: #25D366;  */
+  --accent-color: #B68D40; 
+  
+  /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --surface-color: #ffffff; 
+  
+  /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+  --contrast-color: #ffffff; 
+}
