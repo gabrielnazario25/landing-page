@@ -71,7 +71,8 @@
   /**
    * Scroll top button
    */
-  // let scrollTop = document.querySelector('.scroll-top');
+  // let scrollTop = document.querySelector('.header a.logo');
+  // console.log(scrollTop)
 
   // function toggleScrollTop() {
   //   if (scrollTop) {
